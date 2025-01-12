@@ -1,3 +1,4 @@
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -7,8 +8,7 @@
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <img src="https://komarev.com/ghpvc/?username=vaslari&style=flat-square&color=blue" alt=""/>
-    <h1>
-        Well, hello there!
+    <h1>Well, hello there!
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     </h1>
 </div>
@@ -19,21 +19,24 @@
 
 ---
 
-### :man_technologist: About Me :
+## :man_technologist: About Me
+
 I am a SRE Engineer, DevOps Engineer, Automation Engineer and AI enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Spain.
-# Luis Alfonzo Rivas
 
-- :telescope: I’m working as a DevOps Engineer and contributing to frontend and backend for building web applications.
+## Luis Alfonzo Rivas
 
-- :seedling: Exploring Automation Content.
+- :telescope: I work as a DevOps Engineer 1 commit at a time.
 
-- :zap: In my free time, I solve problems automate things and read tech articles.
+- :seedling: Maestro orchestrator.
+
+- :zap: In my free time, I solve problems and automate things.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luisalfonzorivas)
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages/Tools
+
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -72,15 +75,16 @@ I am a SRE Engineer, DevOps Engineer, Automation Engineer and AI enthusiast <img
     <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="azure" **alt="azure" width="40" height="40"/>
 </div>
 
-
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vaslari&theme=dark&background=000000)](https://git.io/streak-stats)
+### :fire: My Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaslari&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-Welcome to my GitHub repository.
+Welcome to my GitHub profile.
+
 Here you will mostly find projects that I have worked on.
 
 Most of my recent projects are private.
